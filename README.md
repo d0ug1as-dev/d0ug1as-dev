@@ -1,18 +1,21 @@
-<img src="https://github.com/user-attachments/assets/acddc015-2947-40b4-827a-c8b008202afa" alt="capa de descrição com nome e função" width="100%">&nbsp;&nbsp;&nbsp;
+(https://github.com/user-attachments/assets/acddc015-2947-40b4-827a-c8b008202afa)
+
 
    <strong>Atualmente estou buscando uma migração de carreira enquanto me aprofundo no universo front-end.</strong>
-  
+ 
 <br/>
+
 
 ### Tecnologias com as quais me sinto confortavel:
 
-<img src="https://github.com/user-attachments/assets/6967421e-34d9-477e-8796-8dd132ea4a5f" alt="icone github" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/73b7104a-12ba-4036-ba67-01ead2ff1850" alt="icone html" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/220e24af-cc7b-4226-9b4f-a7d1b4f2c542" alt="icone css" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/44decc66-df14-453b-b02f-f374a03e095c" alt="icone js" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/5491edb8-9b95-4c76-aca7-3579b84cbfd2" alt="icone node" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/486ff958-6385-4358-aa6d-dfe68b3be5e8" alt="icone vite" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/3be89911-0ca3-48e9-8d38-1d619d7dbbec" alt="icone react" width="30" height="30">&nbsp;&nbsp;&nbsp;
+![icon-github](https://github.com/user-attachments/assets/6728067a-def4-4e56-88fb-f479db6717f8)&nbsp;&nbsp;&nbsp;
+![icone html](https://github.com/user-attachments/assets/62ecd78b-20ef-461e-867a-143f72258c70)
+![icone css](https://github.com/user-attachments/assets/d1ac695e-52d5-4b3d-92b3-ca8eaa1414a6)
+![icone js](https://github.com/user-attachments/assets/3aea1831-ee86-4b6b-9298-ba14c22bbabc)
+![icone node]()
+![icone vite]()
+![icone react]()
+
 
 <br/>
 
