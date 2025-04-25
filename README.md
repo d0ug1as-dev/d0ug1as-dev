@@ -1,37 +1,41 @@
-(https://github.com/user-attachments/assets/acddc015-2947-40b4-827a-c8b008202afa)
+![imagem banner perfil-nome-função](https://github.com/user-attachments/assets/c7192148-95df-440a-80aa-5bb6dedc6664)
 
+<br/>
 
    <strong>Atualmente estou buscando uma migração de carreira enquanto me aprofundo no universo front-end.</strong>
  
 <br/>
 
-
 ### Tecnologias com as quais me sinto confortavel:
 
-![icon-github](https://github.com/user-attachments/assets/6728067a-def4-4e56-88fb-f479db6717f8)&nbsp;&nbsp;&nbsp;
-![icone html](https://github.com/user-attachments/assets/62ecd78b-20ef-461e-867a-143f72258c70)
-![icone css](https://github.com/user-attachments/assets/d1ac695e-52d5-4b3d-92b3-ca8eaa1414a6)
-![icone js](https://github.com/user-attachments/assets/3aea1831-ee86-4b6b-9298-ba14c22bbabc)
-![icone node]()
-![icone vite]()
-![icone react]()
-
+![icon-github](https://github.com/user-attachments/assets/bd37aa3b-3853-46f6-a0e1-86cfc4f08b5a)&nbsp;&nbsp;&nbsp;
+![icon-html](https://github.com/user-attachments/assets/a3a59a8f-e69a-4272-997b-94bb6b0e2c8b)&nbsp;&nbsp;&nbsp;
+![icon-css](https://github.com/user-attachments/assets/5b84995e-fced-4abe-999d-c061ac145a7d)&nbsp;&nbsp;&nbsp;
+![icon-js](https://github.com/user-attachments/assets/e11ef5cf-9290-407c-9058-dcb1c632058f)&nbsp;&nbsp;&nbsp;
+![icon-node](https://github.com/user-attachments/assets/9e373278-051c-4fa1-923d-d1ec35a6da32)&nbsp;&nbsp;&nbsp;
+![icon-vite](https://github.com/user-attachments/assets/14df994d-a217-4f44-af13-d52f30e96fd2)&nbsp;&nbsp;&nbsp;
+![icon-react](https://github.com/user-attachments/assets/d66abc10-f016-47ff-8fbd-3d33a4b06b17)&nbsp;&nbsp;&nbsp;
 
 <br/>
 
 ### Tecnologias que venho focando meus estudos:
 
-<img src="https://github.com/user-attachments/assets/13bb615e-525b-4bb5-a0d2-10f8648171be" alt="icone jest" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/582031a7-88ab-4744-8e5f-d47cf5a9e6fb" alt="icone saas" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/55aafa94-884f-4351-9799-ad06f41b3a51" alt="icone bootstrap" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/b1595e6a-1f7d-4c9b-9cb9-3a3edc1ac3f5" alt="icone icone nextjs" width="30" height="30">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/9ec8982a-cd45-4118-ac69-071c13381748" alt="icone webpack" width="30" height="30">&nbsp;&nbsp;&nbsp;
+![icon-jest](https://github.com/user-attachments/assets/bde16c41-ed93-43f1-abfb-c32b090ab0a1)&nbsp;&nbsp;&nbsp;
+![icon-saas](https://github.com/user-attachments/assets/d88ecd64-30d8-4944-876c-0c1d28a977fe)&nbsp;&nbsp;&nbsp;
+![icon-bootstrap](https://github.com/user-attachments/assets/087f9f5d-5cdc-4130-b4b8-4825993f1f66)&nbsp;&nbsp;&nbsp;
+![icon-nextjs](https://github.com/user-attachments/assets/bb503f14-a65c-4796-b599-fdd6f3041beb)&nbsp;&nbsp;&nbsp;
+![icon-mysql](https://github.com/user-attachments/assets/4b9ba8ae-df7a-4dba-bf50-b092bd1cace9)&nbsp;&nbsp;&nbsp;
+![icon-webpack](https://github.com/user-attachments/assets/cfd28bcb-2c86-4d9a-90a9-c973e3903594)&nbsp;&nbsp;&nbsp;
 
 <br/>
 
-<p><img src="https://github.com/user-attachments/assets/94ac1e79-ecea-4efb-a445-f900868803d5" alt="icone capelo formatura" width="20" height="20">&nbsp; Estou cursando Análise e Desenvolvimento de Sistema pela faculdade <a href="https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwn6LABhBSEiwAsNJrjluWCJsAtEjXWgXbeie_HAOPVtydD0q_uhMwRD1oxsoEgHuuK2aIIxoCEgoQAvD_BwE" target="_blank">Uninter</a></p>
-<p><img src="https://github.com/user-attachments/assets/bc3f6aed-6c5b-4cc3-9e8b-a34c1b225dc3" alt="icone logo alura" width="20" height="20">&nbsp; Em paralelo a faculdade sigo estudando o ecossistema front- end  com as formações da <a href="https://www.alura.com.br/cursos-online-front-end?srsltid=AfmBOoq14LMkY3fxjdpV1X3A_R8n3CIRGwM10j1TCWkZkWkFo3YS6Rbm" target="_blank">Alura</a> </p>
-<p><img src="https://github.com/user-attachments/assets/73c6ca75-a9e4-4c9e-a14a-25decabf907e" alt="icone logo rocketseat" width="20" height="20">&nbsp; Me aprofundando ainda mais com a formatação full-stack da <a href="https://www.rocketseat.com.br/formacao/fullstack?utm_source=google&utm_medium=cpc&utm_campaign=venda&utm_term=perpetuo&utm_content=publicofrio-venda-formacao_fullstack-texto-venda-kw-none-none-fullstack-sitelink-none-br-search&gad_source=1&gclid=CjwKCAjwn6LABhBSEiwAsNJrjhpGuTBGpyNHePgb9C6ZLzKnG3G4ExzUd5zmHeeq9GjJ6aVRfTVwdRoCMPYQAvD_BwE">Rocketseat</a></p>
+<br/>
+
+![icon-chapéu-de-formatura](https://github.com/user-attachments/assets/0876f3c5-0b45-45cc-8157-7f05b79fae4c)  &nbsp; Estou cursando Análise e Desenvolvimento de Sistema pela faculdade <a href="https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/?gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwn6LABhBSEiwAsNJrjluWCJsAtEjXWgXbeie_HAOPVtydD0q_uhMwRD1oxsoEgHuuK2aIIxoCEgoQAvD_BwE" target="_blank">Uninter</a></p>
+
+![icone alura](https://github.com/user-attachments/assets/97688267-8378-44e7-b74e-d2716455dc57) &nbsp; Em paralelo a faculdade sigo estudando o ecossistema front- end  com as formações da <a href="https://www.alura.com.br/cursos-online-front-end?srsltid=AfmBOoq14LMkY3fxjdpV1X3A_R8n3CIRGwM10j1TCWkZkWkFo3YS6Rbm" target="_blank">Alura</a>
+
+![icone rocketseat](https://github.com/user-attachments/assets/5f68c675-db2e-494c-81e2-7d2538c3cb4a) &nbsp; Me aprofundando ainda mais com a formatação full-stack da <a href="https://www.rocketseat.com.br/formacao/fullstack?utm_source=google&utm_medium=cpc&utm_campaign=venda&utm_term=perpetuo&utm_content=publicofrio-venda-formacao_fullstack-texto-venda-kw-none-none-fullstack-sitelink-none-br-search&gad_source=1&gclid=CjwKCAjwn6LABhBSEiwAsNJrjhpGuTBGpyNHePgb9C6ZLzKnG3G4ExzUd5zmHeeq9GjJ6aVRfTVwdRoCMPYQAvD_BwE">Rocketseat</a>
 
 <br/>
 
@@ -39,9 +43,16 @@
 
 ### Entre em contato:
 
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/ed57c09d-ad04-4ebf-bf6b-d234c9682af1" alt="icone webpack" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/36364e5e-4225-4d60-89f0-ce49637f8952" alt="icone webpack" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/a1f26018-7614-4bfb-8c76-89130a192c54" alt="icone webpack" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank">![icon-linkedin](https://github.com/user-attachments/assets/b7ce790f-f157-455c-9f26-aca358b30652)</a>&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank">![icon-email](https://github.com/user-attachments/assets/9385fabb-1b0f-48bc-9580-5813e28ed142)</a>&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank">![icon-facebook](https://github.com/user-attachments/assets/f355a2ec-9035-4efb-a165-a470f0774690)</a>&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
 
 
 
